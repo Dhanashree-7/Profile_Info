@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Dhanashree</h1>
-<h3 align="center">A passionate Full Stack Web Developer and AWS Cloud Enthusiast with hands-on experience in building web applications, cloud based solutions and exploring serverless architecture.</h3>
+<h1 align="left">Hi 👋, I'm Dhanashree</h1>
+<h3 align="left">A passionate Full Stack Web Developer and AWS Cloud Enthusiast with hands-on experience in building web applications, cloud based solutions and exploring serverless architecture.</h3>
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanashree-7" alt="dhanashree-7" /></a> </p>
@@ -10,7 +10,7 @@
 
 
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
