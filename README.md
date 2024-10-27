@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Dhanashree</h1>
 <h3 align="center">A passionate Full Stack Web Developer and AWS Cloud Enthusiast with hands-on experience in building web applications, cloud based solutions and exploring serverless architecture.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanashree-7&label=Profile%20views&color=0e75b6&style=flat" alt="dhanashree-7" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhanashree-7" alt="dhanashree-7" /></a> </p>
 
@@ -9,7 +8,7 @@
 
 - 📫 How to reach me **dhanashreekorde29@gmail.com**
 
-- ⚡ Fun fact **I love designing websites by generating stylish UI Design.**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
