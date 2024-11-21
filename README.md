@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm Dhanashree</h1>
+<h1 align="left">Hello 👋, I'm Dhanashree</h1>
 <h3 align="left">A passionate Full Stack Web Developer and AWS Cloud Enthusiast with hands-on experience in building web applications, cloud based solutions and exploring serverless architecture.</h3>
 
 
